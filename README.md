@@ -8,7 +8,7 @@ Thesis 1 & Thesis 2 are a year-long self-driven investigation into the research,
 Thesis is as much about the design process as design projects. By moving through the design process—research, ideation, prototyping, iteration, and presentation—students will begin to develop projects by way of exploration across multiple media. Students will be asked to reflect on how their ideas—as expressed through design—sits alongside historical precedent and shapes culture in the present. It provides an opportunity for visual innovation through the development of a rigorous design process. This includes articulation of research, which contextualizes how one’s work posits itself within larger historical, cultural, social, and technological frameworks.
 
 ## Course outline
-###Week 1–10: Final Project 
+### Week 1–10: Final Project 
 Students undertake individual cycles of prototyping, user testing and implementation throughout the first part of the semester and will be evaluated through both individual critiques with faculty and group critiques. They will appreciate the current best practice and methods—demonstrated through successful examples in class—to create a successful implementation of their design proposal. Students are expected to deliver a final body of work that reflects professionalism and advanced formal proficiency that can be successfully presented to a panel of external design professionals. Students will appreciate methods to speak and write critically and in an engaging manner about their work and the influences that inform it.
 
 * 1/24: Thesis 2 Kick Off
