@@ -11,11 +11,11 @@ Thesis is as much about the design process as design projects. By moving through
 ### Week 1–10: Final Project 
 Students undertake individual cycles of prototyping, user testing and implementation throughout the first part of the semester and will be evaluated through both individual critiques with faculty and group critiques. They will appreciate the current best practice and methods—demonstrated through successful examples in class—to create a successful implementation of their design proposal. Students are expected to deliver a final body of work that reflects professionalism and advanced formal proficiency that can be successfully presented to a panel of external design professionals. Students will appreciate methods to speak and write critically and in an engaging manner about their work and the influences that inform it.
 
-* 1/24: Thesis 2 Kick Off
-* 1/31: Critique
-* 2/7: AIGA Job Fair
-* 2/14: Critique
-* 2/21: Thesis Fair
+* 1/24: [Thesis 2 Kick Off](https://github.com/juliettecezzar/thesis-s20/wiki/01%E2%80%94Thesis-Kickoff)
+* 1/31: [Critique](https://github.com/juliettecezzar/thesis-s20/wiki/02%E2%80%94thesis-planning)
+* 2/7: [AIGA Job Fair](https://github.com/juliettecezzar/thesis-s20/wiki/03%E2%80%94Typography-and-AIGA-NY-Job-Fair)
+* 2/14: [Critique](https://github.com/juliettecezzar/thesis-s20/wiki/04%E2%80%94Individual-meetings)
+* 2/21: [Thesis Fair](https://github.com/juliettecezzar/thesis-s20/wiki/05%E2%80%93Thesis-Fair-&-Iteration)
 * 2/28: Critique
 * 3/6: Critique
 * 3/13: Workshop: How to Document and Write About Your Work
