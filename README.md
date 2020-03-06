@@ -16,8 +16,8 @@ Students undertake individual cycles of prototyping, user testing and implementa
 * 2/7: [AIGA Job Fair](https://github.com/juliettecezzar/thesis-s20/wiki/03%E2%80%94Typography-and-AIGA-NY-Job-Fair)
 * 2/14: [Critique](https://github.com/juliettecezzar/thesis-s20/wiki/04%E2%80%94Individual-meetings)
 * 2/21: [Thesis Fair](https://github.com/juliettecezzar/thesis-s20/wiki/05%E2%80%93Thesis-Fair-&-Iteration)
-* 2/28: Critique
-* 3/6: Critique
+* 2/28: [Critique](https://github.com/juliettecezzar/thesis-s20/wiki/06%E2%80%93Thesis-critique)
+* 3/6: [Critique](https://github.com/juliettecezzar/thesis-s20/wiki/07%E2%80%93Critique)
 * 3/13: Workshop: How to Document and Write About Your Work
 * 3/20: No Class
 * 3/27: Class
