@@ -22,7 +22,7 @@ Students undertake individual cycles of prototyping, user testing and implementa
 * 3/20: No Class
 * 3/27: No Class
 
-* 4/3: Workshop: How to Write About Your Work (Juliette Cezzar) 
+* 4/3: [Workshop: How to Write About Your Work (Juliette Cezzar](https://github.com/juliettecezzar/thesis-s20/wiki/08%E2%80%93Writing) 
 * 4/10: Workshop: How to Document Your Work (YuJune Park)
 * 4/17: Workshop: How to Present Online (Kelly Walters) 
 * 4/24: Final Presentations Due / dry run + feedback
