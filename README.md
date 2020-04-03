@@ -18,24 +18,17 @@ Students undertake individual cycles of prototyping, user testing and implementa
 * 2/21: [Thesis Fair](https://github.com/juliettecezzar/thesis-s20/wiki/05%E2%80%93Thesis-Fair-&-Iteration)
 * 2/28: [Critique](https://github.com/juliettecezzar/thesis-s20/wiki/06%E2%80%93Thesis-critique)
 * 3/6: [Critique](https://github.com/juliettecezzar/thesis-s20/wiki/07%E2%80%93Critique)
-* 3/13: Workshop: How to Document and Write About Your Work
+* 3/13: No Class
 * 3/20: No Class
-* 3/27: Class
-* **4/3: Final Project Due + Workshop**
+* 3/27: No Class
 
+* 4/3: Workshop: How to Write About Your Work (Juliette Cezzar) 
+* 4/10: Workshop: How to Document Your Work (YuJune Park)
+* 4/17: Workshop: How to Present Online (Kelly Walters) 
+* 4/24: Final Presentations Due / dry run + feedback
+* 5/1: Final Critiques (with guest critics)
+* 5/8: Synthesis & Reflection (Final documentation of thesis projects due for thesis catalog and website)
 
-### Week 11–15: Professional Practice
-Through workshops, studio visits,  and in-class exercises, students will expand their knowledge of the field and appreciate professional practices. They will be enabled to transfer their professional experiences and institutional insights to their own design practice and prepare assets to communicate to the community including an online portfolio and CV. Students will understand the myriad of ways of participating in the current communication design community through an engaging mix of best practice as demonstrated in class, through lectures, and studio visits. 
-
-* 4/10: Preparation for Final Reviews
-* **4/17: Final Critiques**
-* 4/24: End of Year Lectures & Workshops
-* 5/1: End of Year Lectures & Workshops 
-* 5/8: End of Year Lectures & Workshops 
-
-### CD Lecture Series
-Students are required to attend 3 CD Design Lectures throughout fall term. The lectures provide an opportunity to see and hear how professional designers articulate and contextualize  individual projects, their body of work, audience, and impact. A 200 word response should be submitted for each lecture attended, as well as a selfie from the event.
-
-Please download the Parsons CD app for up-to-date information on the lectures:
+Please download the Parsons CD app for up-to-date information and past lectures:
 
 [cdparsons.glideapp.io](http://cdparsons.glideapp.io)
