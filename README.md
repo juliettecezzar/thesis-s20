@@ -24,10 +24,10 @@ Students undertake individual cycles of prototyping, user testing and implementa
 
 * 4/3: [Workshop: How to Write About Your Work (Juliette Cezzar)](https://github.com/juliettecezzar/thesis-s20/wiki/08%E2%80%93Writing) 
 * 4/10: [Workshop: How to Document Your Work (YuJune Park)](https://github.com/juliettecezzar/thesis-s20/wiki/09%E2%80%93Presentation) 
-* 4/17: Workshop: How to Present Online (Kelly Walters) 
-* 4/24: Final Presentations Due / dry run + feedback
+* 4/17: [Workshop: How to Present Online (Kelly Walters)](https://github.com/juliettecezzar/thesis-s20/wiki/10%E2%80%94Presentation) 
+* 4/24: [Final Presentations Due / dry run + feedback](https://github.com/juliettecezzar/thesis-s20/wiki/11%E2%80%94Presentation-practice-run)
 * 5/1: Final Critiques (with guest critics)
-* 5/8: Synthesis & Reflection (Final documentation of thesis projects due for thesis catalog and website)
+* 5/8: [Synthesis & Reflection (Final documentation of thesis projects due for thesis catalog and website)](https://github.com/juliettecezzar/thesis-s20/wiki/Final-class-reflection)
 
 Please download the Parsons CD app for up-to-date information and past lectures:
 
